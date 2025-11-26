@@ -1,8 +1,8 @@
 # Predicting Mental Health and Stress Levels from Lifestyle Data Using Machine Learning — Final Project
 
-This project is all about using machine learning to predict stress levels based on people’s lifestyle habits. I used a Kaggle dataset that includes things like sleep, study hours, physical activity, screen time, and other daily routines. The idea is to see how these patterns relate to mental health and stress.
+This project is all about using machine learning to predict mental health and stress levels based on people’s lifestyle habits. I used a Kaggle dataset that includes things like sleep, study hours, physical activity, screen time, and other daily routines. The idea is to see how these patterns relate to mental health and stress.
 
-What this project does
+# What this project does
 
 Loads and cleans the dataset
 
